@@ -7,15 +7,15 @@
 ## 🤖 Tecnologias Utilizadas
 Para esse desafio foram utilizados?
 *chat gpt
-*da vinci ai
+
 
 ## 🧐 Processo de Criação
     A idéia central foi criar uma notícia fake sobre um vulcão que entrou em erupção e evastou um vilarejo, a notícia deveria ser bem realista. 
-    Então primeiramente acessei a plataforma davinci Ai e solicitei a criação da imagem de um vulcão em erupção sobre uma cidade, logo em seguida acessei o Chat GPT e pedi que criasse uma noticia noticia falsa sobre um vilarejo qualquer na italia, onde um vulcao adormecido entra em erupçao fazendo todos os moradores terem que se evadir da cidade.
-    Tendo o texto e a imagem, juntei as duas criando a reportagem.
+    Então acessei o Chat GPT e pedi que criasse uma noticia noticia falsa sobre um vilarejo qualquer na italia, onde um vulcao adormecido entra em erupçao fazendo todos os moradores terem que se evadir da cidade.
+    Tendo o texto reescrevi como se fosse uma reportagem
 
 ## 🚀 Resultados
-    O resultado dessa junção foi uma reportagem extremamente dramática e apelativa, fazendo com que o leitor que não teve conhecimento de se tratar de um projeto, se questione se a notícia realmente é verdadeira ou não
+    O resultado foi uma reportagem dramática e apelativa, fazendo com que o leitor que não teve conhecimento de se tratar de um projeto, se questione se a notícia realmente é verdadeira ou não
 
 
 
